@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+ 
+}
+.container{
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 5px rgb(200, 200, 200);
+  margin: 10% 30%;
+  width: 30%;
+  background-color: antiquewhite;
+
+}
+.container input{
+  padding: 10px;
+  border-radius: 2px;
+  border: #282c34;
+  width: 60%;
+}
+.container button{
+  color: white;
+  background-color: green;
+  padding: 7px;
+  border-radius: 4px;
+  width: 75px;
+}
+.table{
+  display: flex;
+  align-items: center;
+ list-style: none;
+  flex-direction: row;
+  text-decoration: none;
+  justify-content: space-between;
+
+
+
+}
+
